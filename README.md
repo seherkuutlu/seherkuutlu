@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @seherkuutlu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Seher Kutlu
+-  💞️ I'm a statistician
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning machine learning algorithms
+- 📫 Let's check out my work!
 
 <!---
 seherkuutlu/seherkuutlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
