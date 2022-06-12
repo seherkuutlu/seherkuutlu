@@ -12,8 +12,5 @@ seherkuutlu/seherkuutlu is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-
-https://user-images.githubusercontent.com/101044556/173237572-e5051be3-2b55-41bd-be8b-b5c18ba7f967.mp4
+![error-wait](https://user-images.githubusercontent.com/101044556/173237641-b92496e5-a0e5-4b49-ade8-3cd2ca062d51.gif)
 
