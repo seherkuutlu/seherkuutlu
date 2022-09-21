@@ -5,7 +5,7 @@
 - 📫 Let's check out my work!
 - Follow me on Linkedln -> https://www.linkedin.com/in/seher-kutlu-482922199/
 - Follow me on Medium -> https://medium.com/@seherkutluu
-- :octocat: (: Yazı yazmayı severim :)
+- :octocat: (: I like to write :)
 
 <!---
 seherkuutlu/seherkuutlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
