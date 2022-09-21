@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Seher Kutlu
--  💞️ I'm a statistician
+-  💞️ I'm a Statistician
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning machine learning algorithms
 - 📫 Let's check out my work!
